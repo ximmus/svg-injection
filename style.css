@@ -411,3 +411,64 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/* line 9, sass/partials/_inject.scss */
+#inject #plunger_end_back {
+  fill: #555555;
+}
+/* line 12, sass/partials/_inject.scss */
+#inject #plunger_end_front {
+  fill: #cccccc;
+}
+/* line 15, sass/partials/_inject.scss */
+#inject #plunger_rod_outside {
+  fill: #aaaaaa;
+}
+/* line 18, sass/partials/_inject.scss */
+#inject #can_end_back {
+  fill: #555555;
+}
+/* line 21, sass/partials/_inject.scss */
+#inject #can_end_front {
+  fill: #cccccc;
+}
+/* line 24, sass/partials/_inject.scss */
+#inject #plunger_rod_inside {
+  fill: #aaaaaa;
+}
+/* line 27, sass/partials/_inject.scss */
+#inject #plunger_tip_back {
+  fill: #555555;
+}
+/* line 30, sass/partials/_inject.scss */
+#inject #plunger_tip_front {
+  fill: #cccccc;
+}
+/* line 33, sass/partials/_inject.scss */
+#inject #can_tip_back {
+  fill: #555555;
+}
+/* line 36, sass/partials/_inject.scss */
+#inject #can_tip_front {
+  fill: #cccccc;
+}
+/* line 39, sass/partials/_inject.scss */
+#inject #needle_bar_end {
+  fill: #aaaaaa;
+}
+/* line 42, sass/partials/_inject.scss */
+#inject #needle_point {
+  fill: #555555;
+}
+/* line 45, sass/partials/_inject.scss */
+#inject #fluid {
+  fill: rgba(0, 255, 0, 0.5);
+}
+/* line 48, sass/partials/_inject.scss */
+#inject #can {
+  fill: rgba(4, 4, 4, 0.5);
+}
+/* line 51, sass/partials/_inject.scss */
+#inject #can_measure {
+  fill: #000;
+}

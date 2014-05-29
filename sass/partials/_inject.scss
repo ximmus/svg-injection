@@ -1,0 +1,55 @@
+$highlight: #CCC;
+$shadow: #555;
+$needle: #AAA;
+$fluid: rgba( 0,255,0,.5 );
+$can: rgba( 4,4,4,.5 );
+
+#inject{
+
+  #plunger_end_back {
+    fill: $shadow;
+  }
+  #plunger_end_front {
+    fill: $highlight;
+  }
+  #plunger_rod_outside {
+    fill: $needle;
+  }
+  #can_end_back {
+    fill: $shadow;
+  }
+  #can_end_front {
+    fill: $highlight
+  }
+  #plunger_rod_inside {
+    fill: $needle;
+  }
+  #plunger_tip_back {
+    fill: $shadow;
+  }
+  #plunger_tip_front {
+    fill: $highlight
+  }
+  #can_tip_back {
+    fill: $shadow;
+  }
+  #can_tip_front {
+    fill: $highlight
+  }
+  #needle_bar_end {
+    fill: $needle;
+  }
+  #needle_point {
+    fill: $shadow;
+  }
+  #fluid {
+    fill: $fluid;
+  }
+  #can {
+    fill: $can;
+  }
+  #can_measure {
+    fill: #000;
+  }
+
+} // end #inject
