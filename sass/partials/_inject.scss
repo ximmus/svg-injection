@@ -4,7 +4,14 @@ $needle: #AAA;
 $fluid: rgba( 0,255,0,.5 );
 $can: rgba( 4,4,4,.5 );
 
+$height: 50px;
+$width: $height*2;
+
 #inject{
+  svg { 
+    width: $width;
+    height: $height;
+  }
 
   #plunger_end_back {
     fill: $shadow;

@@ -412,63 +412,68 @@ table {
   border-spacing: 0;
 }
 
-/* line 9, sass/partials/_inject.scss */
+/* line 11, sass/partials/_inject.scss */
+#inject svg {
+  width: 100px;
+  height: 50px;
+}
+/* line 16, sass/partials/_inject.scss */
 #inject #plunger_end_back {
   fill: #555555;
 }
-/* line 12, sass/partials/_inject.scss */
+/* line 19, sass/partials/_inject.scss */
 #inject #plunger_end_front {
   fill: #cccccc;
 }
-/* line 15, sass/partials/_inject.scss */
+/* line 22, sass/partials/_inject.scss */
 #inject #plunger_rod_outside {
   fill: #aaaaaa;
 }
-/* line 18, sass/partials/_inject.scss */
+/* line 25, sass/partials/_inject.scss */
 #inject #can_end_back {
   fill: #555555;
 }
-/* line 21, sass/partials/_inject.scss */
+/* line 28, sass/partials/_inject.scss */
 #inject #can_end_front {
   fill: #cccccc;
 }
-/* line 24, sass/partials/_inject.scss */
+/* line 31, sass/partials/_inject.scss */
 #inject #plunger_rod_inside {
   fill: #aaaaaa;
 }
-/* line 27, sass/partials/_inject.scss */
+/* line 34, sass/partials/_inject.scss */
 #inject #plunger_tip_back {
   fill: #555555;
 }
-/* line 30, sass/partials/_inject.scss */
+/* line 37, sass/partials/_inject.scss */
 #inject #plunger_tip_front {
   fill: #cccccc;
 }
-/* line 33, sass/partials/_inject.scss */
+/* line 40, sass/partials/_inject.scss */
 #inject #can_tip_back {
   fill: #555555;
 }
-/* line 36, sass/partials/_inject.scss */
+/* line 43, sass/partials/_inject.scss */
 #inject #can_tip_front {
   fill: #cccccc;
 }
-/* line 39, sass/partials/_inject.scss */
+/* line 46, sass/partials/_inject.scss */
 #inject #needle_bar_end {
   fill: #aaaaaa;
 }
-/* line 42, sass/partials/_inject.scss */
+/* line 49, sass/partials/_inject.scss */
 #inject #needle_point {
   fill: #555555;
 }
-/* line 45, sass/partials/_inject.scss */
+/* line 52, sass/partials/_inject.scss */
 #inject #fluid {
   fill: rgba(0, 255, 0, 0.5);
 }
-/* line 48, sass/partials/_inject.scss */
+/* line 55, sass/partials/_inject.scss */
 #inject #can {
   fill: rgba(4, 4, 4, 0.5);
 }
-/* line 51, sass/partials/_inject.scss */
+/* line 58, sass/partials/_inject.scss */
 #inject #can_measure {
   fill: #000;
 }
