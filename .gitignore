@@ -1,0 +1,10 @@
+# OS Generated Files #
+.DS_Store
+.DS_Store?
+
+# SublimeText Files # 
+*.sublime-workspace
+
+#Fire.app Files#
+fire_app_log.txt
+.sass-cache/

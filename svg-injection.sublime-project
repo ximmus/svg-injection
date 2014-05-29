@@ -1,0 +1,23 @@
+{
+  "folders":
+  [
+    {
+    "path": "/",
+    "name": "SVG JavaScript Injection",
+    "file_exclude_patterns": 
+      [ 
+      "*.sublime-project",
+      "*.sublime-workspace",
+      "fire_app_log.txt",
+      ".gitignore",
+      "config.rb",
+      "readme.md",
+      ".gitattributes"
+      ],
+    "folder_exclude_patterns":
+      [
+        ".sass-cache"
+      ]
+    }
+  ]
+}
