@@ -1,2 +1,1 @@
-<iframe height='300' scrolling='no' title='Pure CSS Animated Breadcrumb' src='//codepen.io/ximmus/embed/FltmI/?height=300&theme-id=5750&default-tab=css,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='http://codepen.io/ximmus/pen/FltmI/'>Pure CSS Animated Breadcrumb</a> by Sumer Mixon (<a href='http://codepen.io/ximmus'>@ximmus</a>) on <a href='http://codepen.io'>CodePen</a>.
-</iframe>
+
